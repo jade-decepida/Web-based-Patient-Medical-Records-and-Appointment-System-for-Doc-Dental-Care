@@ -2,3 +2,4 @@
 
 To develop a system that will improve the medical records of Dental Clinic in terms of editing, updating, retriving and deleting patient records. This system will also have the appointment online booking to lessen the phone calls, manual note taking and text that the clinic do and receive to settle. Overall, this system will allow both admin and user to lessen workload and improve effeciency. It will also help to avoid redundancy in records and booking of appointment, the system will automatically blocked the same hour in the same day that a patient book, to avoid conflict in both patient and dentist. 
 ehf3wourgf
+halo ahlo
